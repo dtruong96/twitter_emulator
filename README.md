@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://recordit.co/PEuoZ3c0Dr' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/PEuoZ3c0Dr.gif' alt='Video Walkthrough' />
 
 
 # Part I
